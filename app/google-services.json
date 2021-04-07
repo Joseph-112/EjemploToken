@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "277208299620",
+    "project_id": "udecar-d7bdb",
+    "storage_bucket": "udecar-d7bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277208299620:android:aaef6fe79a4765ab78c771",
+        "android_client_info": {
+          "package_name": "com.example.conexionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277208299620-djlt7havu9giie16vr5nnflmimktjf89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsjoSg8xvLd9b-rg9tQJhBVxHn7Ze_xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277208299620-djlt7havu9giie16vr5nnflmimktjf89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277208299620:android:e62b08f688e1b1da78c771",
+        "android_client_info": {
+          "package_name": "com.example.ejemplotoken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277208299620-djlt7havu9giie16vr5nnflmimktjf89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsjoSg8xvLd9b-rg9tQJhBVxHn7Ze_xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277208299620-djlt7havu9giie16vr5nnflmimktjf89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
